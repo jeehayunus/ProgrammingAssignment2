@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##makeCacheMatrix creates a special matrix that can cache its inverse, which is really a list containing a function to
 ##set the value of the matrix
 ##get the value of the matrix
@@ -22,6 +23,8 @@ makeCacheMatrix <- function(x = matrix()) {
 =======
 =======
 >>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
+=======
+>>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
 ## Put comments here that give an overall description of what your
 ## functions do
 
@@ -29,6 +32,9 @@ makeCacheMatrix <- function(x = matrix()) {
 
 makeCacheMatrix <- function(x = matrix()) {
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
+=======
 >>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
 =======
 >>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
@@ -36,6 +42,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ## cacheSolve  function calculates the inverse of the special "matrix" created with makeCacheMatrix function
@@ -56,12 +63,17 @@ cacheSolve <- function(x, ...) {
 =======
 =======
 >>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
+=======
+>>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
 ## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
+=======
 >>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
 =======
 >>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
